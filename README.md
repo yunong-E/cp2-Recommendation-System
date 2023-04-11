@@ -120,7 +120,7 @@
 
 
 ## 23.04.11 (화)
-- `ver 2.1` 업로드 완료. ![링크](https://github.com/yunong-E/cp2-Recommendation-System/blob/main/Recommendation_System_ver_2_1.ipynb)
+- `ver 2.1` 업로드 완료. [링크](https://github.com/yunong-E/cp2-Recommendation-System/blob/main/Recommendation_System_ver_2_1.ipynb)
 - x축 라벨이 맞지 않았던 시각화 이미지 수정 완료.
 
 [전]
