@@ -118,6 +118,7 @@
 - 팀원분께서 저의 (EDA와 인사이트 도출이 담긴) 코드 파일과 팀원분의 (모델링이 담긴) 코드 파일을 통합하는 작업을 진행중입니다. 이 작업과 더불어 발표 자료를 제작합니다.
 - 위의 과정은 금주 월~수 내에 마무리 지을 예정이며, 마무리되는 대로 EDA에 대한 피드백을 받을 예정입니다.
 
+<br/>
 
 ## 23.04.11 (화)
 - `ver 2.1` 업로드 완료. [링크](https://github.com/yunong-E/cp2-Recommendation-System/blob/main/Recommendation_System_ver_2_1.ipynb)
