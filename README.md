@@ -123,7 +123,11 @@
 - `ver 2.1` 업로드 완료.
 - x축 라벨이 맞지 않았던 시각화 이미지 수정 완료.
 [전]
-<img width="1312" alt="스크린샷 2023-04-11 오후 3 07 56" src="https://user-images.githubusercontent.com/81222323/231077939-e3700b85-baee-42dd-887f-af4534e70522.png">{: width="500" height="300"}
+
+<img width="976" alt="스크린샷 2023-04-10 오후 2 28 35" src="https://user-images.githubusercontent.com/81222323/231079496-02bb0cfc-3546-4d11-9f09-c86231020199.png">{: width="500" height="300"}
+
 [후]
-<img width="797" alt="스크린샷 2023-04-11 오후 3 09 26" src="https://user-images.githubusercontent.com/81222323/231077925-e9de407e-dd97-457d-b2b9-cea7ea17bb8a.png">{: width="500" height="300"}
+
+<img width="1312" alt="스크린샷 2023-04-11 오후 3 07 56" src="https://user-images.githubusercontent.com/81222323/231079610-e5dc7c12-f197-4c2c-a424-4ad1c82db8fb.png">{: width="500" height="300"}
+
 - 시각화 이미지(1개) + 문구 수정(4개) 총 5곳에 대해 수정을 완료했습니다. `<<수정` 키워드로 확인 가능합니다. 
